@@ -1,61 +1,53 @@
 # Hi, I'm Aditya Datta
 
-Computer Science engineering student and full-stack builder focused on AI tools, automation, applied ML, and developer productivity.
+Computer Science engineering student and full-stack builder focused on AI tooling, automation, applied ML, and developer productivity.
 
 [![GitHub followers](https://img.shields.io/github/followers/adity982?style=social)](https://github.com/adity982)
 [![Profile views](https://komarev.com/ghpvc/?username=adity982&style=flat-square)](https://github.com/adity982)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Datta-blue?logo=linkedin)](https://www.linkedin.com/in/aditya-datta-23a517260/)
 
-## What I'm Building
+## Current focus
 
-- AI and automation tools that turn repetitive workflows into small, reusable systems.
-- Developer tooling around GitHub growth, repo quality, PR hygiene, and open-source shipping.
-- Full-stack products with Python, TypeScript, React, Node.js, Django, Flask, and cloud services.
-- Applied ML and healthtech experiments, including computer vision and document intelligence.
+I am building public AI and developer-workflow projects that are useful on their own, not just portfolio filler.
 
-## Current Open Source Focus
+- evidence-first career tooling
+- GitHub shipping and repo-quality automation
+- practical AI agent and MCP workflows
+- full-stack products with clear docs, tests, and deployment paths
 
-I am building in public with a daily loop:
+## Flagship project
 
-1. Ship one useful project improvement or new small tool.
-2. Improve README, tests, metadata, topics, examples, and release quality.
-3. Make responsible upstream contributions only when there is a clear maintainer-friendly change.
-4. Track what shipped and keep improving the public portfolio.
+### [Resume Automator](https://github.com/adity982/ResumeAutomator-Frontend)
 
-## Featured Projects
+An evidence-first career workspace for resume tailoring, saved job targets, application tracking, outreach, interview practice, and analytics.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [repo-starforge](https://github.com/adity982/repo-starforge) | CLI that audits a repository for star-readiness: README quality, license, tests, examples, badges, metadata, and packaging signals. | Python |
-| [vantage-finance-backend](https://github.com/adity982/vantage-finance-backend) | Backend foundation for finance/product workflows. | TypeScript |
-| [Application-Tracking-System](https://github.com/adity982/Application-Tracking-System) | ATS-style application tracking project. | Python |
-| [AI-CAREER-ASSISTANT](https://github.com/adity982/AI-CAREER-ASSISTANT) | AI-assisted career tooling experiments. | Python |
-| [LEADLOOM](https://github.com/adity982/LEADLOOM) | Lead and workflow automation experiments. | Python |
+- Frontend: [ResumeAutomator-Frontend](https://github.com/adity982/ResumeAutomator-Frontend)
+- Backend: [ResumeAutomator-Backend](https://github.com/adity982/ResumeAutomator-Backend)
+- Live app: [resume-automator-frontend.vercel.app](https://resume-automator-frontend.vercel.app)
 
-## Open Source Contributions
+The product is designed to avoid fabricated claims and black-box resume scoring. AI suggestions stay reviewable and are grounded in job-description and resume evidence.
 
-Recent contribution areas include:
+## What I'm optimizing for
 
-- RAG and document intelligence
-- AI agent tooling
-- MCP ecosystem repositories
-- Browser automation
-- Developer CLI workflows
+- ship one meaningful improvement at a time
+- improve README quality, metadata, examples, and validation
+- make responsible open-source contributions where a clear maintainable fix exists
+- keep the public portfolio focused on projects with real user value
 
-I prefer small, reviewed, test-backed pull requests that make projects easier to use or maintain.
+## Selected project areas
 
-## Tech Stack
+- AI career tooling
+- document intelligence and RAG workflows
+- browser and developer automation
+- repo quality and GitHub workflow tooling
 
-**Languages:** Python, TypeScript, JavaScript, Java, SQL, C, Kotlin  
-**Backend:** Node.js, Express, Django, Flask, FastAPI  
-**Frontend:** React, JavaScript, HTML, CSS  
-**Data and ML:** scikit-learn, TensorFlow, OCR, document AI, RAG workflows  
+## Tech stack
+
+**Languages:** Python, TypeScript, JavaScript, Java, SQL, C, Kotlin
+**Backend:** FastAPI, Flask, Django, Node.js, Express
+**Frontend:** React, TypeScript, Vite
+**Data and ML:** scikit-learn, TensorFlow, OCR, document AI, RAG workflows
 **Cloud and Tools:** AWS, Docker, Firebase, PostgreSQL, MongoDB, GitHub Actions
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adity982&show_icons=true&theme=github_dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adity982&layout=compact&theme=github_dark)
 
 ## Experience
 
@@ -70,7 +62,7 @@ Worked on blockchain-based certificate verification using Hyperledger Fabric, Go
 - KIITEE Merit Scholarship
 - Flipkart Grid 6.0 Semifinalist
 - Smart India Hackathon selection
-- Machine Learning, backend, cloud, and analytics certifications
+- Machine learning, backend, cloud, and analytics certifications
 
 ## Connect
 
