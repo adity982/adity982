@@ -27,6 +27,16 @@ An evidence-first career workspace for resume tailoring, saved job targets, appl
 
 The product is designed to avoid fabricated claims and black-box resume scoring. AI suggestions stay reviewable and are grounded in job-description and resume evidence.
 
+## Recently shipped
+
+### [GitHub Profile Analyzer API](https://github.com/adity982/github-profile-analyzer)
+
+A Node.js and MySQL API that turns public GitHub data into portfolio signals such as original-vs-forked work, language diversity, recent activity, stars, forks, and profile completeness.
+
+- deterministic regression tests with no live GitHub or database dependency
+- GitHub Actions coverage on Node.js 18, 20, and 22
+- synthetic example response for evaluating the API before setup
+
 ## What I'm optimizing for
 
 - ship one meaningful improvement at a time
