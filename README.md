@@ -44,6 +44,14 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 - make responsible open-source contributions where a clear maintainable fix exists
 - keep the public portfolio focused on projects with real user value
 
+## Recent open-source work
+
+- [Plonk #103](https://github.com/ostapondo/Plonk/pull/103) — added CLI version output for the MCP server
+- [Palinode #89](https://github.com/phasespace-labs/palinode/pull/89) — aligned Click aliases with command discovery and help behavior
+- [PARTHA #286](https://github.com/Second-Origin/PARTHA/pull/286) — improved accessible names for repository row actions
+
+Each contribution above was reviewed and merged upstream.
+
 ## Selected project areas
 
 - AI career tooling
