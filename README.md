@@ -46,9 +46,9 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
-- [Plonk #103](https://github.com/ostapondo/Plonk/pull/103) — added CLI version output for the MCP server
-- [Palinode #89](https://github.com/phasespace-labs/palinode/pull/89) — aligned Click aliases with command discovery and help behavior
-- [PARTHA #286](https://github.com/Second-Origin/PARTHA/pull/286) — improved accessible names for repository row actions
+- [BlackRain Desktop #106](https://github.com/goodbyeri-studio/blackrain-desktop/pull/106) — added offline provider-registry validation for required fields, duplicates, enabled providers, and secret redaction
+- [W&B RAI Toolkit #13](https://github.com/wandb/rai-toolkit/pull/13) — added an evidence-backed groundedness scorer with safe unassessed results and verified evidence spans
+- [MoleCare MCP #25](https://github.com/MoleCare/molecare-mcp/pull/25) — added MCP tool annotations that distinguish read-only tools from state-changing cache operations
 
 Each contribution above was reviewed and merged upstream.
 
