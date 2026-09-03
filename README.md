@@ -46,9 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
+- [Peon Mem #5](https://github.com/VineetV2/peon-mem/pull/5) — added Cline detection and idempotent installer configuration for the local memory server
 - [BlackRain Desktop #106](https://github.com/goodbyeri-studio/blackrain-desktop/pull/106) — added offline provider-registry validation for required fields, duplicates, enabled providers, and secret redaction
 - [W&B RAI Toolkit #13](https://github.com/wandb/rai-toolkit/pull/13) — added an evidence-backed groundedness scorer with safe unassessed results and verified evidence spans
 - [MoleCare MCP #25](https://github.com/MoleCare/molecare-mcp/pull/25) — added MCP tool annotations that distinguish read-only tools from state-changing cache operations
+- [Netcafe Guard #28](https://github.com/magnoormeno-dot/netcafe-guard/pull/28) — added Gemini CLI OAuth credential detection, shipped upstream in [v0.1.2](https://github.com/magnoormeno-dot/netcafe-guard/releases/tag/v0.1.2)
 
 Each contribution above was reviewed and merged upstream.
 
