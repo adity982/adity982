@@ -46,11 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
+- [Worktrunk #3594](https://github.com/max-sixty/worktrunk/pull/3594) — added a profile-aware Pi activity plugin with atomic install and uninstall workflows
+- [Anomalithic #35](https://github.com/zanni098/Anomalithic/pull/35) — fixed final SSE event delivery when streams close without a trailing newline
+- [SAP Knowledge Pipeline #23](https://github.com/yassinbahri/sap-knowledge-pipeline/pull/23) — added offline RAG retrieval evaluation for authorization scope and citation integrity
+- [Websieve #41](https://github.com/ehtishammubarik/websieve/pull/41) — added dependency-free semantic chunking with Markdown structure and bounded overlap
 - [Peon Mem #5](https://github.com/VineetV2/peon-mem/pull/5) — added Cline detection and idempotent installer configuration for the local memory server
-- [BlackRain Desktop #106](https://github.com/goodbyeri-studio/blackrain-desktop/pull/106) — added offline provider-registry validation for required fields, duplicates, enabled providers, and secret redaction
-- [W&B RAI Toolkit #13](https://github.com/wandb/rai-toolkit/pull/13) — added an evidence-backed groundedness scorer with safe unassessed results and verified evidence spans
-- [MoleCare MCP #25](https://github.com/MoleCare/molecare-mcp/pull/25) — added MCP tool annotations that distinguish read-only tools from state-changing cache operations
-- [Netcafe Guard #28](https://github.com/magnoormeno-dot/netcafe-guard/pull/28) — added Gemini CLI OAuth credential detection, shipped upstream in [v0.1.2](https://github.com/magnoormeno-dot/netcafe-guard/releases/tag/v0.1.2)
 
 Each contribution above was reviewed and merged upstream.
 
