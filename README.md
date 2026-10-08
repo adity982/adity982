@@ -46,11 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
+- [Mutiny #92](https://github.com/CodewithJha/mutiny/pull/92) — closed SSE event-loss and shared SQLite concurrency gaps with mutation-resistant regression coverage
 - [Worktrunk #3594](https://github.com/max-sixty/worktrunk/pull/3594) — added a profile-aware Pi activity plugin with atomic install and uninstall workflows
 - [Anomalithic #35](https://github.com/zanni098/Anomalithic/pull/35) — fixed final SSE event delivery when streams close without a trailing newline
 - [SAP Knowledge Pipeline #23](https://github.com/yassinbahri/sap-knowledge-pipeline/pull/23) — added offline RAG retrieval evaluation for authorization scope and citation integrity
 - [Websieve #41](https://github.com/ehtishammubarik/websieve/pull/41) — added dependency-free semantic chunking with Markdown structure and bounded overlap
-- [Peon Mem #5](https://github.com/VineetV2/peon-mem/pull/5) — added Cline detection and idempotent installer configuration for the local memory server
 
 Each contribution above was reviewed and merged upstream.
 
