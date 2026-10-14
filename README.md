@@ -46,11 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
-- [Mutiny #98](https://github.com/CodewithJha/mutiny/pull/98) — kept interrupted CLI ingest out of the hosted execution slot and closed the ingest-start integrity gap
-- [ChatGPT Web Adapter #177](https://github.com/kymuco/chatgpt-web-adapter/pull/177) — made concurrent snapshot and export allocation atomic, collision-safe, and ownership-aware
-- [Waggle MCP #701](https://github.com/Abhigyan-Shekhar/Waggle-mcp/pull/701) — rejected unsupported MCP POST media types before reading or forwarding request bodies
-- [Worktrunk #3594](https://github.com/max-sixty/worktrunk/pull/3594) — added a profile-aware Pi activity plugin with atomic install and uninstall workflows
-- [SAP Knowledge Pipeline #23](https://github.com/yassinbahri/sap-knowledge-pipeline/pull/23) — added offline RAG retrieval evaluation for authorization scope and citation integrity
+- [Agent Threat Model #20](https://github.com/basitalisandhu/agent-threat-model/pull/20) — added a research-agent example with a reviewed threat model and four green validation jobs
+- [Apogee #448](https://github.com/darshi1337/apogee/pull/448) — documented agent-friendly summarize and extract entry points with build, packaging, link, security, and CodeQL checks
+- [Fair-Code #916](https://github.com/yakew7/Fair-Code/pull/916) — added per-file held-out encoding support across seven reproducible algorithmic-bias audits
+- [TDK CLI Core #1056](https://github.com/tdk-landscape/tdk-cli-core/pull/1056) — added an end-to-end MCP stdio initialization smoke test for the shipped CLI package
+- [mcp2cli #117](https://github.com/knowsuchagency/mcp2cli/pull/117) — fixed OpenAPI path-parameter encoding and serialization without duplicating values in query strings
 
 Each contribution above was reviewed and merged upstream.
 
