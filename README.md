@@ -46,9 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
-- [Plonk #103](https://github.com/ostapondo/Plonk/pull/103) — added CLI version output for the MCP server
-- [Palinode #89](https://github.com/phasespace-labs/palinode/pull/89) — aligned Click aliases with command discovery and help behavior
-- [PARTHA #286](https://github.com/Second-Origin/PARTHA/pull/286) — improved accessible names for repository row actions
+- [Agent Threat Model #20](https://github.com/basitalisandhu/agent-threat-model/pull/20) — added a research-agent example with a reviewed threat model and four green validation jobs
+- [Apogee #448](https://github.com/darshi1337/apogee/pull/448) — documented agent-friendly summarize and extract entry points with build, packaging, link, security, and CodeQL checks
+- [Fair-Code #916](https://github.com/yakew7/Fair-Code/pull/916) — added per-file held-out encoding support across seven reproducible algorithmic-bias audits
+- [TDK CLI Core #1056](https://github.com/tdk-landscape/tdk-cli-core/pull/1056) — added an end-to-end MCP stdio initialization smoke test for the shipped CLI package
+- [mcp2cli #117](https://github.com/knowsuchagency/mcp2cli/pull/117) — fixed OpenAPI path-parameter encoding and serialization without duplicating values in query strings
 
 Each contribution above was reviewed and merged upstream.
 
