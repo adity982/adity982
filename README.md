@@ -46,9 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
-- [Plonk #103](https://github.com/ostapondo/Plonk/pull/103) — added CLI version output for the MCP server
-- [Palinode #89](https://github.com/phasespace-labs/palinode/pull/89) — aligned Click aliases with command discovery and help behavior
-- [PARTHA #286](https://github.com/Second-Origin/PARTHA/pull/286) — improved accessible names for repository row actions
+- [POps #170](https://github.com/PashaCore/POps/pull/170) — added validated multi-lab enrollment and round-robin agent distribution to the simulator
+- [Claude MCP Allow #11](https://github.com/basitalisandhu/claude-mcp-allow/pull/11) — added managed MCP policy discovery across macOS, Linux, WSL, and Windows
+- [Backenly #281](https://github.com/backenly/backenly/pull/281) — kept MCP caller identity out of browser page context and added regression coverage
+- [UsageTrim #119](https://github.com/00200200/usagetrim/pull/119) — added deterministic browser-HTML compaction into an accessibility-focused outline
+- [Verbatim Citation Gate #12](https://github.com/tonydzi/verbatim-citation-gate/pull/12) — added fail-closed span validation for citation-backed text
 
 Each contribution above was reviewed and merged upstream.
 
