@@ -46,11 +46,11 @@ A Node.js and MySQL API that turns public GitHub data into portfolio signals suc
 
 ## Recent open-source work
 
-- [Agent Threat Model #20](https://github.com/basitalisandhu/agent-threat-model/pull/20) — added a research-agent example with a reviewed threat model and four green validation jobs
-- [Apogee #448](https://github.com/darshi1337/apogee/pull/448) — documented agent-friendly summarize and extract entry points with build, packaging, link, security, and CodeQL checks
-- [Fair-Code #916](https://github.com/yakew7/Fair-Code/pull/916) — added per-file held-out encoding support across seven reproducible algorithmic-bias audits
-- [TDK CLI Core #1056](https://github.com/tdk-landscape/tdk-cli-core/pull/1056) — added an end-to-end MCP stdio initialization smoke test for the shipped CLI package
-- [mcp2cli #117](https://github.com/knowsuchagency/mcp2cli/pull/117) — fixed OpenAPI path-parameter encoding and serialization without duplicating values in query strings
+- [POps #170](https://github.com/PashaCore/POps/pull/170) — added validated multi-lab enrollment and round-robin agent distribution to the simulator
+- [Claude MCP Allow #11](https://github.com/basitalisandhu/claude-mcp-allow/pull/11) — added managed MCP policy discovery across macOS, Linux, WSL, and Windows
+- [Backenly #281](https://github.com/backenly/backenly/pull/281) — kept MCP caller identity out of browser page context and added regression coverage
+- [UsageTrim #119](https://github.com/00200200/usagetrim/pull/119) — added deterministic browser-HTML compaction into an accessibility-focused outline
+- [Verbatim Citation Gate #12](https://github.com/tonydzi/verbatim-citation-gate/pull/12) — added fail-closed span validation for citation-backed text
 
 Each contribution above was reviewed and merged upstream.
 
